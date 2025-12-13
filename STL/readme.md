@@ -17,7 +17,7 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 
 # Assembly Manual
 
-- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H / MGN7H carriage, two in the back of the EBB mount, one in the bottom of the dock, and two M5 inserts in the dock adapter.
+- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H / MGN7H carriage, two in the back of the EBB mount, one in the bottom of the dock, 2 in the back of the dock. and two M5 inserts in the dock adapter.
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert1.jpg" width="300" height="300"> 
@@ -120,10 +120,12 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 
 # Dock Assembly
 
-- Insert the 31 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
-- Take a 23 mm PTFE tube for the wiper, bend it in the middle, wedge it into the back holder, then press down to straighten it out.
+- Screw on the back.
+- Insert the 29 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
+- Take a 21 mm PTFE tube for the wiper and press it into the back holder.
 - Press the magnets into the top.
 - Mount the dock onto the crossbar, optionally using the adapter.
+- Dock the toolhead and adjust the height of the back, till the toolhead is level.
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_blocker.jpg" width="300" height="300">   
