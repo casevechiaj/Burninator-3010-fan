@@ -24,8 +24,9 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert2.jpg" width="300" height="300">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/backplate_heatinsert.jpg" width="300" height="300">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/EBB_mount_heatinsert.jpg" width="300" height="300"> 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_heatinsert.jpg" width="300" height="300"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_heat_insert.jpg" width="300" height="300"> 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/adapter_heatinsert.jpg" width="300" height="300"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_back_heat_insert.jpg" width="300" height="300"> 
 </p>
 
 - Insert the 2510 fan from the back and slide it upward, wedging it into place. The two small nubs should fit into the bottom holes of the fan, securing it further. This works the same way as on the Dragonburner.
@@ -120,17 +121,19 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 
 # Dock Assembly
 
-- Screw on the back.
-- Insert the 29 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
 - Take a 21 mm PTFE tube for the wiper and press it into the back holder.
 - Press the magnets into the top.
+- Screw on the back.
+- Insert the 29 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
 - Mount the dock onto the crossbar, optionally using the adapter.
-- Dock the toolhead and adjust the height of the back, till the toolhead is level.
+- Dock the toolhead adjust the height of the back and the depth of the spring steel blocker
+
 
 <p>
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_back_ptfe_whiper.jpg" width="300" height="300"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_magnet_back.jpg" width="300" height="300"> 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_blocker.jpg" width="300" height="300">   
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_wiper.jpg" width="300" height="300">   
-</p>
+  </p>
 
 
 
