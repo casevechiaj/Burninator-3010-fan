@@ -26,9 +26,9 @@ The NextG Hotend should have the same dimensions as the Dragon and the TZ hotend
 The NextG UHF should have the same dimensions as the Dragon UHF, Rapido HF should also fit. 
 
 ## Anything else?  
-Besides the toolhead, there’s also a small custom adjustable Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
+Besides the CHC-XL, UHF and SF toolheads, there’s also a small custom adjustable Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers and an adapter to use LGX extruders.
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2.1_explosion.png" width="800" height="650">
 
 ## What is planed?
 For now, not much, testing out some ideas. 
@@ -41,3 +41,10 @@ Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator
 ## Disclaimer:
 - It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
 - Because the dock is quite small and space-saving, when using a door buffer for the StealthChanger, the DraftShift_dock_adapter needs to be used, otherwise the shuttle won’t reach the toolheads.
+- Stock pickup and dropoff paths should work just fine, it might need some adjusment for the nozzle to scrub over the whiper.
+If you like, you can use my custom paths:
+
+```
+params_dropoff_path: [{'y': 25, 'z':3}, {'y': 5, 'z':3} , {'y':0, 'z':3, 'f':0.5}, {'y':0, 'z':0, 'f':0.5}, {'y':0, 'z':-10}, {'y':5, 'z':-10}]
+params_pickup_path: [{'y':5, 'z':-10}, {'y':0, 'z':-10}, {'y':0, 'z':0, 'f':0.5, 'verify':1}, {'y':0, 'z':3, 'f':0.5}, {'y': 5, 'z':3}, {'y': 25, 'z':3}]
+```
