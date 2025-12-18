@@ -7,6 +7,7 @@ Thanks to Reddit user pd1zzle for suggesting the toolhead name, I really took a 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead.jpg" width="300" height="400">
 </p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/SC_example.png" width="600" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/final.jpg" width="600" height="900">
 
 ## But why?  
 I created this toolhead because I wasn’t quite happy with the current toolhead options for my Stealthchanger.
