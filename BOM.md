@@ -27,7 +27,7 @@
 ## Others
 - 1x 2510 fan 24V
 - 2x 4010 fan 24V
-- 3x RGB PCB LEDs NeoPixel compatible
+- 3x RGB PCB LEDs (NeoPixel or simular)
 - 1x PTFE tube 21mm
 - 1x spring steel blocker 7x29mm cut from old tape measure
 - 2x magnets 3x6mm N52
