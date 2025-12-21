@@ -37,6 +37,7 @@ You can also do request and I can take a look at it and upload it in the future.
 Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
+Here's what you need [BOM](https://github.com/The-Duke-96/Burninator/blob/main/BOM.md)   
 Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/Assembly%20Manual.md)
 
 ## Disclaimer:
