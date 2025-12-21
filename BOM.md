@@ -22,7 +22,7 @@
 - 2x M3x6 BHCS to secure EBB36 mount to standoffs
 - 2x M3x6 BHCS to secure EBB36 PCB to mount
 - 2x M3x6 BHCS to secure optotap to backplate
-- 2x M3x6 SHCS or BHCS to secure LGX adapter to cowl
+- 2x M3x6 SHCS to secure LGX adapter to cowl
 
 ## Others
 - 1x 2510 fan 24V
