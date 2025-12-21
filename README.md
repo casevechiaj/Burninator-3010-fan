@@ -37,8 +37,8 @@ You can also do request and I can take a look at it and upload it in the future.
 Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
-Here's what you need [BOM](https://github.com/The-Duke-96/Burninator/blob/main/BOM.md)   
-Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/Assembly%20Manual.md)
+Here's the [BOM](https://github.com/The-Duke-96/Burninator/blob/main/BOM.md).      
+Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/Assembly%20Manual.md).   
 
 ## Disclaimer:
 - It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
