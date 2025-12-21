@@ -12,10 +12,10 @@
 ## Screws
 - 2x M3x35 SHCS to secure cowl to backplate and MGN7H or MGN12H
 - 2x M3x6 SHCS to secure cowl to backplate and MGN7H or MGN12H
-- 2x M3x4 FHCS to secure belt clamps on MGN7H or MGN12H carriage
+- 2x M3x5 FHCS to secure belt clamps on MGN7H or MGN12H carriage
 - 4x M3x10 to secure MGN12H carriage to linear rail
-- 4x M3x5 to secure MGN7H carriage to linear rail
-- 2x M3x8 SHCS to secure dock back
+- 4x M3x6 to secure MGN7H carriage to linear rail
+- 2x M3x6 SHCS to secure dock back
 - 1x M3x5 BHCS to secure spring steel blocker
 - 4x M5x8 BHCS to secure dock to DraftShift adapter and 2020 extrusion or crossbar
 - 2x M3x16 standoff on extruder back
