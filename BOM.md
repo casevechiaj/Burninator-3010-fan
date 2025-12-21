@@ -3,11 +3,11 @@
 ## Heat inserts
 - 4x M3x4 on cowl
 - 3x M3x4 on dock
-- 2x M3x4 on :contentReference[oaicite:0]{index=0}
+- 2x M3x4 on stealthchanger backplate
 - 2x M3x4 on MGN7H/MGN12H carriage
-- 2x M3x4 on :contentReference[oaicite:1]{index=1}
-- 2x M3x4 on EBB36 mount
-- 2x M5 on :contentReference[oaicite:2]{index=2}
+- 2x m3x4 on LGX Adapter
+- 2x m3x4 on EBB36 mount
+- 2x M5 on DraftShift Adapter
 
 ## Screws
 - 2x M3x35 SHCS to secure cowl to backplate and MGN7H or MGN12H
