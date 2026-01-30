@@ -22,7 +22,7 @@ It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
 
-## Hotend compatebility:
+## Hotend compatibility:
 For the SF cowl, any Pheatus Dragon like hotends should fit i.e.: NextG, TZ.
 For the UHF cowl, any Pheatus Dragon UHF like hotend should fit i.e.: NextG UHF, Rapido HF, Dragon ACE (with the spacer)
 
