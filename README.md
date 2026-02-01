@@ -34,6 +34,7 @@ Besides the CHC-XL, UHF and SF toolheads, there are:
 - MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2.1_explosion.png" width="800" height="650">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/MadMax_explosion.png" width="800" height="650">
 
 ## What is planed?
 For now, not much, testing out some ideas. 
