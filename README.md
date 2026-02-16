@@ -35,6 +35,7 @@ Besides the CHC-XL, UHF and SF toolheads, there are:
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2.1_explosion.png" width="800" height="650">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/MadMax_explosion.png" width="800" height="650">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Voron_V.png" width="800" height="650">
 
 ## What is planed?
 For now, not much, testing out some ideas. 
