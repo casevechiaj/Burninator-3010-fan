@@ -26,10 +26,12 @@ It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 ## Hotend compatibility:
 - For the SF cowl, any Pheatus Dragon like hotends should fit i.e.: NextG, TZ.
 - For the UHF cowl, any Pheatus Dragon UHF like hotend should fit i.e.: NextG UHF, Rapido HF, Dragon ACE (with the spacer)
+- The CHC-XL got it own cowls 
+- Rapido UHF got it own cowls
 
 ## Anything else?  
-Besides the CHC-XL, UHF and SF toolheads, there are: 
-- MGN12H (Voron-2) and MGN7H (Voron-0) carriage, both with x-endstop and klicky mount, for standalone, non-toolchanger printers 
+Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are: 
+- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H(pandora's gantry mod) and MGN7H (Voron-0) carriage, both with x-endstop and klicky mount, for standalone, non-toolchanger printers 
 - StealthChanger toolchanger: backplate, ajustable docks with inbuild PTFE whiper and spring steel blocker, adapter for DraftShft docks
 - MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
 
