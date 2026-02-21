@@ -24,6 +24,7 @@
 - 2x M3x6 BHCS to secure EBB36 PCB to mount
 - 2x M3x6 BHCS to secure optotap to backplate
 - 2x M3x6 SHCS to secure LGX adapter to cowl
+- 2 M3x20 BHCS to secure beacon/cartographer to carriage 
 
 ## Others
 - 1x 2510 fan 24V
