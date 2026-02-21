@@ -53,10 +53,8 @@ Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator
 - Because the dock is quite small and space-saving, when using a door buffer for the StealthChanger, the DraftShift_dock_adapter needs to be used, otherwise the shuttle won’t reach the toolheads.
 - If you use Beacon/Cartographer on CHC-XL or Rapido-UHF cowl, you need to extend the spacers to the correct lenght.
 - StealthChanger and MadMax docks are designed for the SF and UHF cowls. I do not plan to adapt them for CHC XL or Rapido UHF, simply because a toolchanger already sacrifices print volume, and the smaller SF and UHF cowls are better suited for that use case. 
-- Stock pickup and dropoff paths should work just fine, it might need some adjusment for the nozzle to scrub over the whiper.
 - For many files I have not received any feedback and, or could not test them myself, so if something is not working or not fitting, please let me know.
-
-If you like, you can use my custom paths:
+- Stock pickup and dropoff paths should work just fine, it might need some adjusment for the nozzle to scrub over the whiper.  If you like, you can use my custom paths:
 
 ```
 params_dropoff_path: [{'y': 25, 'z':3}, {'y': 5, 'z':3} , {'y':0, 'z':3, 'f':0.5}, {'y':0, 'z':0, 'f':0.5}, {'y':0, 'z':-10}]
