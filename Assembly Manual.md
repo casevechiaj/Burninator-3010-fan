@@ -1,6 +1,6 @@
 # Assembly Manual
 
-- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H / MGN7H carriage, two in the back of the EBB mount, one in the bottom of the dock, two in the back of the dock and two M5 inserts in the dock adapter.
+- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H / MGN7H / MGN9H klicky carriage plus two more on the backside on beacon/cartographer carriage, two in the back of the EBB mount, one in the bottom of the dock, two in the back of the dock and two M5 inserts in the dock adapter.
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert1.jpg" width="300" height="300"> 
@@ -59,6 +59,7 @@
 - Install either M3x40 SHCS screws with a 3 mm spacer, or M3x35 SHCS screws without the spacer and place a 6×3 mm magnet on top.
 - Route cables into the grooves and secure them with zip-ties.
 - If using the StealthChanger backplate, install the OptoTap PCB.
+- If using Beacon/Cartographer carriage, now install the probe.
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_backscrews.jpg" width="300" height="300">   
