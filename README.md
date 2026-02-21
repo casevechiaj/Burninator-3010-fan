@@ -35,9 +35,7 @@ Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are:
 - StealthChanger toolchanger: backplate, ajustable docks with inbuild PTFE whiper and spring steel blocker, adapter for DraftShft docks
 - MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2.1_explosion.png" width="800" height="650">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/MadMax_explosion.png" width="800" height="650">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Voron_V.png" width="800" height="650">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/render/full_render.png" width="1200" height="800">
 
 ## What is planed?
 For now, not much, testing out some ideas. 
