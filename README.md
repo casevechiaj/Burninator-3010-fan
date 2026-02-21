@@ -7,7 +7,6 @@ And thanks to Reddit user linuxgangster for suggesting, testing, and providing f
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_render.png" width="300" height="400"> 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead.jpg" width="300" height="400">
 </p>
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/SC_example.png" width="600" height="400">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/final.jpg" width="600" height="900">
 
 ## But why?  
