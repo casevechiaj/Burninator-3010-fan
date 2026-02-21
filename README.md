@@ -31,7 +31,7 @@ It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 
 ## Anything else?  
 Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are: 
-- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H(pandora's gantry mod) and MGN7H (Voron-0) carriage, both with x-endstop and klicky mount, for standalone, non-toolchanger printers 
+- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H(pandora's gantry mod) and MGN7H (Voron-0) carriage, both with x-endstop and klicky or Beacon/Cartographer[+spacer) mount, for standalone, non-toolchanger printers 
 - StealthChanger toolchanger: backplate, ajustable docks with inbuild PTFE whiper and spring steel blocker, adapter for DraftShft docks
 - MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
 
@@ -51,6 +51,8 @@ Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator
 ## Disclaimer:
 - It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
 - Because the dock is quite small and space-saving, when using a door buffer for the StealthChanger, the DraftShift_dock_adapter needs to be used, otherwise the shuttle won’t reach the toolheads.
+- If you use Beacon/Cartographer on CHC-XL or Rapido-UHF cowl, you need to extend the spacers to the correct lenght.
+- StealthChanger and MadMax docks are designed for the SF and UHF cowls. I do not plan to adapt them for CHC XL or Rapido UHF, simply because a toolchanger already sacrifices print volume, and the smaller SF and UHF cowls are better suited for that use case. 
 - Stock pickup and dropoff paths should work just fine, it might need some adjusment for the nozzle to scrub over the whiper.
 If you like, you can use my custom paths:
 
