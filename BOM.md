@@ -4,7 +4,8 @@
 - 4x M3x4 on cowl
 - 3x M3x4 on dock
 - 2x M3x4 on stealthchanger backplate
-- 2x M3x4 on MGN7H/MGN12H carriage
+- 2x M3x4 on MGN7H/MGN12H klicky carriage
+- 4x M3x4 on MGN7H/MGN12H beacon/cartographer carriage
 - 2x m3x4 on LGX Adapter
 - 2x m3x4 on EBB36 mount
 - 2x M5 on DraftShift Adapter
