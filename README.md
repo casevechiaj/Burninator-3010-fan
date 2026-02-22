@@ -30,7 +30,7 @@ It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 
 ## Anything else?  
 Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are: 
-- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H (pandora's gantry mod) and MGN7H (Voron-0) carriage, with x-endstop and both, klicky or Beacon/Cartographer[+spacer) mount, for standalone, non-toolchanger printers 
+- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H (pandora's gantry mod) and MGN7H (Voron-0) carriage, with x-endstop and both, klicky or Beacon/Cartographer(+spacer) mount, for standalone, non-toolchanger printers 
 - StealthChanger toolchanger: backplate, ajustable docks with inbuild PTFE whiper and spring steel blocker, adapter for DraftShft docks
 - MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
 
