@@ -37,9 +37,9 @@ Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are:
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/render/full_render.png" width="1200" height="800">
 
 ## What is planed?
-For now, not much, testing out some ideas. 
+For now, not much. 
 You can also do request and I can take a look at it and upload it in the future. 
-Of course, .step CAD files are available for you to mod it to your needs.
+Of course, CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
 Here's the [BOM](https://github.com/The-Duke-96/Burninator/blob/main/BOM.md).      
